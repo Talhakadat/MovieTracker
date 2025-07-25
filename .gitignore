@@ -1,0 +1,25 @@
+# Derleme çıktıları
+*.o
+*.obj
+*.exe
+*.out
+
+# CodeLite
+*.workspace
+*.project
+*.layout
+*.tags
+*.depend
+
+# Derleme klasörleri
+build/
+Debug/
+Release/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Loglar
+*.log
+
